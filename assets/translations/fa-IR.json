@@ -1,0 +1,19 @@
+{
+    "title": "فاوین",
+    "class_list":"لیست کلاس ها",
+    "first_term":"ترم اول سال ۱۴۰۱",
+    "add_class":"اضافه کردن کلاس",
+    "row_number":"ردیف",
+    "class_number":"شماره کلاس",
+    "class_name":"نام کلاس",
+    "register_number":"نام کلاس",
+    "register_time":"زمان ثبت",
+    "time":"ساعت",
+    "show":"مشاهده",
+    "this_field_is_required":"این فیلد اجباری است",
+    "this_field_must_contain_only_numbers":"این فیلد فقط شامل عدد است",
+    "class_name_required":"نام کلاس اجباری است",
+    "register":"ثبت",
+    "close":"بستن",
+    "class_detail":"جزییات کلاس"
+}

@@ -1,0 +1,19 @@
+{
+    "title":"Favin",
+    "class_list":"Class list",
+    "first_term":"First term",
+    "add_class":"Add class",
+    "row_number":"Row number",
+    "class_number":"Class number",
+    "class_name":"Class name",
+    "register_number":"Register number",
+    "register_time":"Register time",
+    "time":"Time",
+    "show":"Show",
+    "this_field_is_required":"This field is required",
+    "this_field_must_contain_only_numbers":"This field must be contain only numbers",
+    "class_name_required":"Class name required",
+    "register":"Register",
+    "close":"Close",
+    "class_detail":"Class detail"
+}
